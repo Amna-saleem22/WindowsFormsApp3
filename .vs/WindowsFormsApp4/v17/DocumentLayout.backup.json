@@ -1,0 +1,136 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\secod semester\\WindowsFormsApp4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{44228135-6D06-4B15-9E4D-57CCCFA9A035}|WindowsFormsApp4\\WindowsFormsApp4.csproj|e:\\secod semester\\windowsformsapp4\\windowsformsapp4\\properties\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{44228135-6D06-4B15-9E4D-57CCCFA9A035}|WindowsFormsApp4\\WindowsFormsApp4.csproj|solutionrelative:windowsformsapp4\\properties\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44228135-6D06-4B15-9E4D-57CCCFA9A035}|WindowsFormsApp4\\WindowsFormsApp4.csproj|e:\\secod semester\\windowsformsapp4\\windowsformsapp4\\properties\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44228135-6D06-4B15-9E4D-57CCCFA9A035}|WindowsFormsApp4\\WindowsFormsApp4.csproj|solutionrelative:windowsformsapp4\\properties\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44228135-6D06-4B15-9E4D-57CCCFA9A035}|WindowsFormsApp4\\WindowsFormsApp4.csproj|e:\\secod semester\\windowsformsapp4\\windowsformsapp4\\properties\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{44228135-6D06-4B15-9E4D-57CCCFA9A035}|WindowsFormsApp4\\WindowsFormsApp4.csproj|solutionrelative:windowsformsapp4\\properties\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44228135-6D06-4B15-9E4D-57CCCFA9A035}|WindowsFormsApp4\\WindowsFormsApp4.csproj|e:\\secod semester\\windowsformsapp4\\windowsformsapp4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44228135-6D06-4B15-9E4D-57CCCFA9A035}|WindowsFormsApp4\\WindowsFormsApp4.csproj|solutionrelative:windowsformsapp4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44228135-6D06-4B15-9E4D-57CCCFA9A035}|WindowsFormsApp4\\WindowsFormsApp4.csproj|e:\\secod semester\\windowsformsapp4\\windowsformsapp4\\properties\\form2.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44228135-6D06-4B15-9E4D-57CCCFA9A035}|WindowsFormsApp4\\WindowsFormsApp4.csproj|solutionrelative:windowsformsapp4\\properties\\form2.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44228135-6D06-4B15-9E4D-57CCCFA9A035}|WindowsFormsApp4\\WindowsFormsApp4.csproj|e:\\secod semester\\windowsformsapp4\\windowsformsapp4\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44228135-6D06-4B15-9E4D-57CCCFA9A035}|WindowsFormsApp4\\WindowsFormsApp4.csproj|solutionrelative:windowsformsapp4\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44228135-6D06-4B15-9E4D-57CCCFA9A035}|WindowsFormsApp4\\WindowsFormsApp4.csproj|e:\\secod semester\\windowsformsapp4\\windowsformsapp4\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{44228135-6D06-4B15-9E4D-57CCCFA9A035}|WindowsFormsApp4\\WindowsFormsApp4.csproj|solutionrelative:windowsformsapp4\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form2.Designer.cs",
+              "DocumentMoniker": "E:\\secod semester\\WindowsFormsApp4\\WindowsFormsApp4\\Properties\\Form2.Designer.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp4\\Properties\\Form2.Designer.cs",
+              "ToolTip": "E:\\secod semester\\WindowsFormsApp4\\WindowsFormsApp4\\Properties\\Form2.Designer.cs*",
+              "RelativeToolTip": "WindowsFormsApp4\\Properties\\Form2.Designer.cs*",
+              "ViewState": "AgIAAHcAAAAAAAAAAAAnwIUAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T05:17:59.175Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\secod semester\\WindowsFormsApp4\\WindowsFormsApp4\\Program.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp4\\Program.cs",
+              "ToolTip": "E:\\secod semester\\WindowsFormsApp4\\WindowsFormsApp4\\Program.cs",
+              "RelativeToolTip": "WindowsFormsApp4\\Program.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAmwBAAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T04:55:16.578Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form3.cs [Design]",
+              "DocumentMoniker": "E:\\secod semester\\WindowsFormsApp4\\WindowsFormsApp4\\Properties\\Form3.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp4\\Properties\\Form3.cs",
+              "ToolTip": "E:\\secod semester\\WindowsFormsApp4\\WindowsFormsApp4\\Properties\\Form3.cs [Design]",
+              "RelativeToolTip": "WindowsFormsApp4\\Properties\\Form3.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T04:57:04.33Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form2.cs",
+              "DocumentMoniker": "E:\\secod semester\\WindowsFormsApp4\\WindowsFormsApp4\\Properties\\Form2.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp4\\Properties\\Form2.cs",
+              "ToolTip": "E:\\secod semester\\WindowsFormsApp4\\WindowsFormsApp4\\Properties\\Form2.cs*",
+              "RelativeToolTip": "WindowsFormsApp4\\Properties\\Form2.cs*",
+              "ViewState": "AgIAAA0AAAAAAAAAAADwvyAAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T04:43:53.339Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form2.cs [Design]",
+              "DocumentMoniker": "E:\\secod semester\\WindowsFormsApp4\\WindowsFormsApp4\\Properties\\Form2.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp4\\Properties\\Form2.cs",
+              "ToolTip": "E:\\secod semester\\WindowsFormsApp4\\WindowsFormsApp4\\Properties\\Form2.cs [Design]*",
+              "RelativeToolTip": "WindowsFormsApp4\\Properties\\Form2.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T04:27:32.749Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "E:\\secod semester\\WindowsFormsApp4\\WindowsFormsApp4\\Form1.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp4\\Form1.cs",
+              "ToolTip": "E:\\secod semester\\WindowsFormsApp4\\WindowsFormsApp4\\Form1.cs",
+              "RelativeToolTip": "WindowsFormsApp4\\Form1.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAlwCoAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T04:18:00.481Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "E:\\secod semester\\WindowsFormsApp4\\WindowsFormsApp4\\Form1.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp4\\Form1.cs",
+              "ToolTip": "E:\\secod semester\\WindowsFormsApp4\\WindowsFormsApp4\\Form1.cs [Design]",
+              "RelativeToolTip": "WindowsFormsApp4\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T04:12:34.438Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
